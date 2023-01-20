@@ -1,4 +1,4 @@
-Alert("My ToDO List App");
+alert("My ToDO List App");
 
 let myToDoList = [];
 
